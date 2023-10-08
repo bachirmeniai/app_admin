@@ -1,6 +1,6 @@
 class AppLink {
   static const String server = "http://fisaaaaaa.com/yemen";
-  static const String imageststatic = "http://fisaaaaaa.com/ecommerce/upload";
+  static const String imageststatic = "http://fisaaaaaa.com/yemen/upload";
 //========================== Image ============================
   static const String imagestCategories = "$imageststatic/categories";
   static const String imagestItems = "$imageststatic/items";
